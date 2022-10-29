@@ -1,0 +1,70 @@
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.exe
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.deps.json
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.runtimeconfig.json
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.pdb
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.AssemblyReference.cache
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.GenerateResource.cache
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.AssemblyInfoInputs.cache
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.AssemblyInfo.cs
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\refint\Aplication.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.pdb
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.genruntimeconfig.cache
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\ref\Aplication.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.dll.config
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Inicio.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Properties.Resources.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Ingreso.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\Rhino.Mocks.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.CopyComplete
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.DatosPersonales.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.IntenteNuevamente.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Registrarse.resources
+C:\Users\ragrijalva\source\repos\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Registrarse2.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.exe
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.dll.config
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.deps.json
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.runtimeconfig.json
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Aplication.pdb
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\NPOI.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\Rhino.Mocks.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.AssemblyReference.cache
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.DatosPersonales.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Ingreso.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Inicio.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Properties.Resources.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Registrarse.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.GenerateResource.cache
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.AssemblyInfoInputs.cache
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.AssemblyInfo.cs
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.csproj.CopyComplete
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\refint\Aplication.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.pdb
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.genruntimeconfig.cache
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\ref\Aplication.dll
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Empadronar.resources
+C:\Users\mjber\Documents\BASE DE DATOS\ap\Aplication\Aplication\obj\Debug\net6.0-windows\Aplication.Votacion.resources
